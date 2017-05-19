@@ -1,0 +1,277 @@
+body.homepage {
+  background-image: url("images/background.jpg");
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bolder;
+  text-align: center;
+  color: #FFD700;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  text-align: center;
+  margin-top: 30px;
+}
+
+a {
+  font-size: 32px;
+  font-weight: bolder;
+  font-style: oblique;
+  color: #FFFF00;
+  text-decoration: none;
+}
+
+p {
+  font-weight: bolder;
+  font-style: italic;
+}
+
+body.luciopage {
+  background-image: url("images/lucio.jpg");
+}
+
+h1.lucioh {
+  font-size: 50px;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+  color: #FFD700;
+}
+
+.lucio-title {
+  font-size: 42px;
+  color: #FFD700;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: right;
+}
+
+.lucio {
+  font-size: 32px;
+  color: #FFD700;
+  font-weight: bolder;
+  text-align: right;
+}
+
+body.aurielpage {
+  background-image: url("images/auriel.jpg")
+}
+
+h1.aurielh {
+  font-size: 50px;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+  color: #00FFFF;
+}
+
+.auriel-title {
+  font-size: 42px;
+  color: #00FFFF;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: right;
+}
+
+.auriel {
+  font-size: 32px;
+  color: #00FFFF;
+  font-weight: bolder;
+  text-align: right;
+}
+
+body.medivhpage {
+  background-image: url("images/medivh.jpg")
+}
+
+h1.medivhh {
+  font-size: 50px;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+  color: #DC143C;
+}
+
+.medivh-title {
+  font-size: 42px;
+  color: #DC143C;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: right;
+}
+
+.medivh {
+  font-size: 32px;
+  color: #DC143C;
+  font-weight: bolder;
+  text-align: right;
+}
+
+body.dehakapage {
+  background-image: url("images/dehaka.jpg")
+}
+
+h1.dehakah {
+  font-size: 50px;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+  color: #FF69B4;
+}
+
+.dehaka-title {
+  font-size: 42px;
+  color: #FF69B4;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: right;
+}
+
+.dehaka {
+  font-size: 32px;
+  color: #FF69B4;
+  font-weight: bolder;
+  text-align: right;
+}
+
+body.varianpage {
+  background-image: url("images/varian.jpg")
+}
+
+h1.varianh {
+  font-size: 50px;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+  color: #FF8C00;
+}
+
+.varian-title {
+  font-size: 42px;
+  color: #FF8C00;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: left;
+}
+
+.varian {
+  font-size: 32px;
+  color: #FF8C00;
+  font-weight: bolder;
+  text-align: left;
+}
+
+body.xulpage {
+  background-image: url("images/xul.jpg")
+}
+
+h1.xulh {
+  font-size: 50px;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+  color: #2E8B57;
+}
+
+.xul-title {
+  font-size: 42px;
+  color: #2E8B57;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: left;
+}
+
+.xul {
+  font-size: 32px;
+  color: #2E8B57;
+  font-weight: bolder;
+  text-align: left;
+}
+
+body.valeerapage {
+  background-image: url("images/valeera.jpg")
+}
+
+h1.valeerah {
+  font-size: 50px;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+  color: #FF0000;
+}
+
+.valeera-title {
+  font-size: 42px;
+  color: #FF0000;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: right;
+}
+
+.valeera {
+  font-size: 32px;
+  color: #FF0000;
+  font-weight: bolder;
+  text-align: right;
+}
+
+body.ragnarospage {
+  background-image: url("images/ragnaros.jpg")
+}
+
+h1.ragnarosh {
+  font-size: 50px;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: left;
+  color: #FFD700;
+}
+
+.ragnaros-title {
+  font-size: 42px;
+  color: #FFD700;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: left;
+}
+
+.ragnaros {
+  font-size: 32px;
+  color: #FFD700;
+  font-weight: bolder;
+  text-align: left;
+}
+
+body.samuropage {
+  background-image: url("images/samuro.jpg")
+}
+
+h1.samuroh {
+  font-size: 50px;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+  color: #9ACD32;
+}
+
+.samuro-title {
+  font-size: 42px;
+  color: #9ACD32;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: right;
+}
+
+.samuro {
+  font-size: 32px;
+  color: #9ACD32;
+  font-weight: bolder;
+  text-align: right;
+}
